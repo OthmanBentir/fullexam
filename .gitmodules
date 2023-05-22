@@ -1,0 +1,9 @@
+[submodule "examen"]
+	path = examen
+	url = https://github.com/OthmanBentir/examen.git
+[submodule "examen02"]
+	path = examen02
+	url = https://github.com/OthmanBentir/examen02.git
+[submodule "examen03"]
+	path = examen03
+	url = https://github.com/OthmanBentir/examen03.git
